@@ -4,6 +4,9 @@ This is seahorse-nautilus from upstream with one feature added: the file extensi
 
 ![pic](https://snag.gy/HjWFvq.jpg)
 
+# Prerequisites
+**arch linux:** `sudo pacman -S glib2-devel`
+
 # Installation
 **arch linux:** `yay -S seahorse-nautilus-ext`
 
